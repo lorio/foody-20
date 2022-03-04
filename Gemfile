@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.7.0'
 
-gem 'rails', '~>5.0'
+gem 'rails', '~>5.1.5'
 gem 'sqlite3',     group: :development
 gem 'pg',   group: :production
 gem 'rails_12factor',   group: :production
